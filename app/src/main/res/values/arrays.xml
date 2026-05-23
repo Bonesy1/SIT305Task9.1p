@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="categories_array">
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Documents</item>
+        <item>Keys</item>
+        <item>Pets</item>
+        <item>Other</item>
+    </string-array>
+</resources>
